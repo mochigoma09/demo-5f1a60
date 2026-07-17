@@ -1,2 +1,3 @@
 # demo-5f1a60
-Auto generated demo site for 株式会社 高吉工務店
+
+AIによって自動生成された 株式会社 高吉工務店 様向けのデモサイトです。
